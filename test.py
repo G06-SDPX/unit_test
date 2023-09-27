@@ -15,3 +15,5 @@ def test_answer(s_word):
 s="Let's take LeetCode contest"
 print(func(s))
 print(test_answer(func(s)))
+
+print("Test")
